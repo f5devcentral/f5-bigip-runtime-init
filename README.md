@@ -1,5 +1,5 @@
 # F5 BIG-IP Runtime Init
-## NOTE: This project is in preview and under active development.
+## NOTE: This repository is archived and project is moved under the following repository: https://github.com/F5Networks/f5-bigip-runtime-init
 
 [![Slack Status](https://f5cloudsolutions.herokuapp.com/badge.svg)](https://f5cloudsolutions.herokuapp.com)
 [![Releases](https://img.shields.io/github/release/f5devcentral/f5-bigip-runtime-init.svg)](https://github.com/f5devcentral/f5-bigip-runtime-init/releases)
